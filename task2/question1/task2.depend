@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1741382936 source:c:\users\as213\downloads\cat-embedded-tasks\cat-ahmed\cat-embedded-tasks\task2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+
+1741383186 source:c:\users\as213\downloads\cat-embedded-tasks\cat-ahmed\cat-embedded-tasks\task2\question2.c
+	<stdio.h>
+
